@@ -13,4 +13,9 @@ Projects:
   - docker, kubernetes, helm and fluxcd
   - hasicorp vault and terraform
   - thanos: long term storage for promteheus metrics
+Interested in:
+  - security
+  - stocks and crypto
+  - devops
+  - cloud native
 ```
